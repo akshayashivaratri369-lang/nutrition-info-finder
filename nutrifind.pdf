@@ -1,0 +1,812 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2389
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(nutrifind) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(Shirisha Gundu, Vanga Vaishnavi Akshaya Shivaratri ) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(11-02-2026) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(18-02-2026) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(People want to eat healthy but struggle to understand nutrition labels and adjust serving sizes) Tj
+T* (correctly. There is no simple tool that allows easy food search, serving-based calculation, and) Tj
+T* (comparison in one place.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 256.5356692913385359 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 225.354566929133739 Td
+(People trying to maintain a healthy diet, gym-goers, students, and individuals managing weight or) Tj
+T* (medical conditions like diabetes are affected because they need accurate and adjustable nutrition) Tj
+T* (information.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 150.2364566929132934 Td
+(How did I find out about this?) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 104.882125984251843 Td
+(Step 2: Problem Statement) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2979
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Users need an easy way to search food, adjust serving sizes, compare nutrition values, and save) Tj
+T* (healthy options — without navigating complex apps.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 725.6695275590550409 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(Poor food decisions come from lack of clear data.) Tj
+T* (Small improvements in food awareness lead to:) Tj
+T* (Better health) Tj
+T* (Better fitness outcomes) Tj
+T* (Lower medical risks) Tj
+T* (Smarter daily choices) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 572.5986614173227736 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 541.4175590551180903 Td
+(From building the Nutrition Info Finder web app, I learned how to design a user-focused application) Tj
+T* (with features like food search, nutrition display, serving size adjustment, and comparison. This) Tj
+T* (project improved my understanding of using React.js for interactive interfaces and Tailwind CSS for) Tj
+T* (styling.) Tj
+T* () Tj
+T* (I also gained experience integrating AI through the Gemini API to fetch and calculate nutritional) Tj
+T* (data, and using LocalStorage to save user preferences like favorites. Overall, this project helped) Tj
+T* (me understand real-world web development workflow and the importance of combining AI tools with) Tj
+T* (frontend technologies to create useful applications.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 372.7561417322834245 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 338.7403937007873083 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 307.559291338582625 Td
+(1. Basic nutrition lookup app with search bar) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 277.7955118110235162 Td
+(2. Nutrition tracker with calorie calculator) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 248.0317322834645211 Td
+(3. -powered Nutrition Info Finder with comparison & suggestions) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 218.2679527559054122 Td
+(4. Diet planner based on user goals) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 188.5041732283464171 Td
+(5. Healthy food recommendation chatbot) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 144.5671653543306547 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 113.3860629921258578 Td
+() Tj
+T* (AI-powered Nutrition Info Finder Web App that allows users to search foods, view nutritional) Tj
+T* (breakdown, adjust serving sizes, compare foods, and save favorites using Gemini API.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2359
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+() Tj
+T* (This solution is practical and impactful because:) Tj
+T* (People want quick and reliable nutrition information) Tj
+T* (It helps users make healthier food choices) Tj
+T* (AI integration makes it smart and interactive) Tj
+T* (Food comparison feature adds unique value) Tj
+T* (Easy to use and scalable) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 616.5356692913385359 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 582.5199212598424765 Td
+(Step 6: What will my solution look like?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 551.3388188976377933 Td
+() Tj
+T* (The prototype is a React-based web app with:) Tj
+T* (A search bar to enter food name) Tj
+T* (Display section styled like a nutrition label \(using Tailwind CSS\)) Tj
+T* (Serving size input to dynamically adjust values) Tj
+T* (Comparison panel for two foods) Tj
+T* (Favorites section saved using LocalStorage) Tj
+T* (Gemini API is used to fetch nutrition data, calculate per serving values, compare foods, and) Tj
+T* (suggest healthier alternatives.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 382.6774015748030706 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 351.4962992125983874 Td
+() Tj
+T* (Nutrition data provider) Tj
+T* (Serving size calculator) Tj
+T* (Food comparison engine) Tj
+T* (Healthy alternative recommender) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 245.1970866141731449 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 214.0159842519684616 Td
+(1. Gemini API) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 184.2522047244093528 Td
+(2. React.js) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 154.4884251968503577 Td
+(3. Tailwind CSS) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 124.7246456692912489 Td
+(4. LocalStorage) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 94.96086614173214 Td
+(5. Vite \(for project setup\)) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2385
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 739.8427559055118081 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 708.6616535433070112 Td
+(Shirisha Gundu, Vanga Vaishnavi Akshaya Shivaratri ) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 664.7246456692912489 Td
+(What works well:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 633.5435433070865656 Td
+() Tj
+T* (Fast food search) Tj
+T* (Clean nutrition label UI) Tj
+T* (Accurate per-serving calculations) Tj
+T* (Smooth comparison feature) Tj
+T* (Favorites saving correctly) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 511.6537795275589815 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 480.4726771653542983 Td
+() Tj
+T* (Add loading animation) Tj
+T* (Improve mobile responsiveness) Tj
+T* (Add more micronutrient details) Tj
+T* (Add dark mode) Tj
+T* (Improve error handling) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 358.5829133858267141 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 324.5671653543306547 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 293.3860629921258578 Td
+(nutrifind) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 249.4490551181102092 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 218.2679527559054122 Td
+() Tj
+T* (Smart Nutrition Info Finder is an AI-powered health web app that helps users instantly check) Tj
+T* (nutritional information of any food item. Users can adjust serving sizes, compare two foods side by) Tj
+T* (side, and save their favorite foods for future reference. The app uses Gemini API to provide) Tj
+T* (accurate nutrition data, calculate values per serving, and even suggest healthier alternatives. Built) Tj
+T* (with React and Tailwind CSS, the app is fast, responsive, and user-friendly. It empowers people to) Tj
+T* (make smarter and healthier food choices.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 80.7876377952754865 Td
+(Step 9: Reflections) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1055
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+() Tj
+T* (Integrating AI with real-world health use case) Tj
+T* (Designing nutrition label UI) Tj
+T* (Building comparison logic) Tj
+T* (Seeing dynamic serving calculations work) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 647.7167716535432191 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 616.5356692913385359 Td
+() Tj
+T* (Structuring Gemini API prompts correctly) Tj
+T* (Handling dynamic serving size recalculations) Tj
+T* (Managing state in React) Tj
+T* (Formatting nutrition data consistently) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 510.2364566929133503 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 479.0553543307086102 Td
+(https://github.com/shirishagundu06-gif/nutrifind) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260218191647+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000012132 00000 n 
+0000013979 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002593 00000 n 
+0000002730 00000 n 
+0000005761 00000 n 
+0000005898 00000 n 
+0000008309 00000 n 
+0000008447 00000 n 
+0000010885 00000 n 
+0000011024 00000 n 
+0000012214 00000 n 
+0000012340 00000 n 
+0000012471 00000 n 
+0000012605 00000 n 
+0000012743 00000 n 
+0000012867 00000 n 
+0000012996 00000 n 
+0000013128 00000 n 
+0000013264 00000 n 
+0000013392 00000 n 
+0000013519 00000 n 
+0000013648 00000 n 
+0000013781 00000 n 
+0000013883 00000 n 
+0000014232 00000 n 
+0000014318 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <9ED9F65425BC7CD7FE11F3C2463C1456> <9ED9F65425BC7CD7FE11F3C2463C1456> ]
+>>
+startxref
+14422
+%%EOF
